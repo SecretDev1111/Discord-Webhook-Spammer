@@ -21,4 +21,5 @@ _A simple and functional webhook spammer._
 ## Preview
 <img src="https://i.imgur.com/VtzvN9D.png" style="width: 75%">
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="secretdev1111" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting my GitHub page. Now you can donate me if you want. :D" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+## Support me
+<a href="https://www.buymeacoffee.com/secretdev1111"><img src="https://img.buymeacoffee.com/button-api/?text=Donate&emoji=💸&slug=secretdev1111&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
